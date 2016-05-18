@@ -1,0 +1,40 @@
+{
+	"rooms": [
+		{
+			"id": 1,
+			"name": "Zozi",
+			"thermometers": [
+				{
+					"ipAddress": "192.168.1.168:80"
+				}
+			]
+		},
+		{
+			"id": 2,
+			"name": "nappali",
+			"thermometers": [
+				{
+					"ipAddress": "192.168.1.166:80"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"name": "Lorci",
+			"thermometers": [
+				{
+					"ipAddress": "192.168.1.165:80"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"name": "padlas",
+			"thermometers": [
+				{
+					"ipAddress": "192.168.1.164:80"
+				}
+			]
+		}
+	]
+}
